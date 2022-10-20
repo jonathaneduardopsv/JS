@@ -3,42 +3,42 @@ Algoritmo "Exercicio 04"
 //
 
 Var
-Aluno:caractere
+   Aluno:caractere
 
-Nota1,Nota2,media:real
+   Nota1,Nota2,media:real
 
 Inicio
 
-escreva ("Informe o nome do aluno:")
+   escreva ("Informe o nome do aluno:")
 
-leia (Aluno)
+   leia (Aluno)
 
-escreval("")
+   escreval("")
 
-escreval("  Informe as notas")
+   escreval("  Informe as notas")
 
-escreval("")
+   escreval("")
 
-escreva (" Nota 1:")
+   escreva (" Nota 1:")
 
-leia (Nota1)
+   leia (Nota1)
 
-escreval
+   escreval
 
-escreva (" Nota 2:")
+   escreva (" Nota 2:")
 
-leia (Nota2)
+   leia (Nota2)
 
-escreval
+   escreval
 
-escreval("================================")
+   escreval("================================")
 
-escreval
+   escreval
 
 
-media <- (Nota1+Nota2)/2
+   media <- (Nota1+Nota2)/2
 
-escreval("A média entre ", Nota1, " e", Nota2, " é igual a ", media)
+   escreval("A média entre ", Nota1, " e", Nota2, " é igual a ", media)
 
 
 Fimalgoritmo
