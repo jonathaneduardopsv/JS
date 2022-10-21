@@ -1,4 +1,6 @@
 Algoritmo "Exercicio 04"
+//  
+//  
 //
 //
 
@@ -30,11 +32,6 @@ Inicio
    leia (Nota2)
 
    escreval
-
-   escreval("================================")
-
-   escreval
-
 
    media <- (Nota1+Nota2)/2
 
