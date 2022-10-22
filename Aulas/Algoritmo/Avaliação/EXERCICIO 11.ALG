@@ -40,6 +40,4 @@ Inicio
    Escreva ("Acabou")
    
    Escreval
-
-
 Fimalgoritmo
